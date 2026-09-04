@@ -1,0 +1,408 @@
+unit_id,institution_name,state,control,hbcu,n_applied,n_admitted,n_enrolled
+138558,Abraham Baldwin Agricultural College,GA,Public,0,2618,2020,1112
+138600,Agnes Scott College,GA,Private not-for-profit,0,1857,1250,241
+100654,Alabama A & M University,AL,Public,1,15628,10349,1956
+100724,Alabama State University,AL,Public,1,5346,5113,951
+132842,Albizu University-Miami,FL,Private not-for-profit,0,39,39,23
+175342,Alcorn State University,MS,Public,1,7511,1852,505
+156189,Alice Lloyd College,KY,Private not-for-profit,0,1871,1601,189
+217624,Allen University,SC,Private not-for-profit,1,3658,1175,170
+485698,American College of the Building Arts,SC,Private not-for-profit,0,58,36,36
+217633,Anderson University,SC,Private not-for-profit,0,4732,2499,849
+138761,Andrew College,GA,Private not-for-profit,0,780,399,108
+237136,Appalachian Bible College,WV,Private not-for-profit,0,70,69,53
+197869,Appalachian State University,NC,Public,0,24001,21275,4227
+498447,Arizona College of Nursing-Falls Church,VA,Private for-profit,0,40,40,19
+495439,Arizona College of Nursing-Fort Lauderdale,FL,Private for-profit,0,0,,
+499370,Arizona College of Nursing-Sarasota,FL,Private for-profit,0,35,35,14
+495420,Arizona College of Nursing-Tampa,FL,Private for-profit,0,32,32,11
+106458,Arkansas State University,AR,Public,0,8019,5587,1660
+106467,Arkansas Tech University,AR,Public,0,4904,4722,1467
+156213,Asbury University,KY,Private not-for-profit,0,1550,993,358
+100858,Auburn University,AL,Public,0,48178,24314,5935
+100830,Auburn University at Montgomery,AL,Public,0,2213,2050,413
+482149,Augusta University,GA,Public,0,5892,5262,1224
+219602,Austin Peay State University,TN,Public,0,5559,5334,1645
+446048,Ave Maria University,FL,Private not-for-profit,0,2448,1097,318
+231420,Averett University,VA,Private not-for-profit,0,3322,1588,283
+219639,Baptist Health Sciences University,TN,Private not-for-profit,0,152,103,43
+132408,Baptist University of Florida,FL,Private not-for-profit,0,156,100,29
+132471,Barry University,FL,Private not-for-profit,0,12141,7172,582
+197911,Barton College,NC,Private not-for-profit,0,2228,2136,281
+384254,Beacon College,FL,Private not-for-profit,0,593,358,126
+175421,Belhaven University,MS,Private not-for-profit,0,2156,1148,251
+156286,Bellarmine University,KY,Private not-for-profit,0,3462,3240,632
+197984,Belmont Abbey College,NC,Private not-for-profit,0,2972,2686,400
+219709,Belmont University,TN,Private not-for-profit,0,8950,8624,1669
+217721,Benedict College,SC,Private not-for-profit,1,8073,5433,338
+197993,Bennett College,NC,Private not-for-profit,1,723,243,49
+156295,Berea College,KY,Private not-for-profit,0,2073,678,413
+139144,Berry College,GA,Private not-for-profit,0,6467,4000,577
+237181,Bethany College,WV,Private not-for-profit,0,2435,1473,243
+219718,Bethel University,TN,Private not-for-profit,0,3318,3224,402
+132602,Bethune-Cookman University,FL,Private not-for-profit,1,6844,6834,702
+100937,Birmingham-Southern College,AL,Private not-for-profit,0,3987,2071,148
+175430,Blue Mountain Christian University,MS,Private not-for-profit,0,191,191,109
+237215,Bluefield State University,WV,Public,1,720,628,216
+231554,Bluefield University,VA,Private not-for-profit,0,1057,663,180
+139199,Brenau University,GA,Private not-for-profit,0,2761,2401,205
+156356,Brescia University,KY,Private not-for-profit,0,2534,877,151
+198066,Brevard College,NC,Private not-for-profit,0,2582,1020,239
+139205,Brewton-Parker College,GA,Private not-for-profit,0,1018,879,244
+231581,Bridgewater College,VA,Private not-for-profit,0,3984,3618,429
+198109,Cabarrus College of Health Sciences,NC,Private not-for-profit,0,63,31,24
+198136,Campbell University,NC,Private not-for-profit,0,3680,3470,603
+156365,Campbellsville University,KY,Private not-for-profit,0,1015,998,684
+489937,Carolina University,NC,Private not-for-profit,0,547,186,119
+433174,Carolinas College of Health Sciences,NC,Public,0,27,22,22
+219806,Carson-Newman University,TN,Private not-for-profit,0,2991,2042,367
+198215,Catawba College,NC,Private not-for-profit,0,2547,1979,308
+158477,Centenary College of Louisiana,LA,Private not-for-profit,0,1834,998,255
+232618,Centra College,VA,Private not-for-profit,0,1,1,0
+106713,Central Baptist College,AR,Private not-for-profit,0,302,140,104
+156408,Centre College,KY,Private not-for-profit,0,3226,1753,361
+457129,Chamberlain University-Florida,FL,Private for-profit,0,12,12,10
+475732,Chamberlain University-Georgia,GA,Private for-profit,0,26,25,17
+492759,Chamberlain University-Louisiana,LA,Private for-profit,0,11,10,9
+489344,Chamberlain University-North Carolina,NC,Private for-profit,0,3,2,2
+460871,Chamberlain University-Virginia,VA,Private for-profit,0,2,2,1
+217688,Charleston Southern University,SC,Private not-for-profit,0,6072,4620,725
+198303,Chowan University,NC,Private not-for-profit,0,2360,1708,161
+219833,Christian Brothers University,TN,Private not-for-profit,0,1105,977,200
+231712,Christopher Newport University,VA,Public,0,7062,6212,1163
+217864,Citadel Military College of South Carolina,SC,Public,0,2883,2828,661
+244233,City College-Hollywood,FL,Private for-profit,0,33,33,33
+217873,Claflin University,SC,Private not-for-profit,1,6999,5078,456
+138947,Clark Atlanta University,GA,Private not-for-profit,1,27672,17884,1069
+139311,Clayton  State University,GA,Public,0,1782,1258,504
+217882,Clemson University,SC,Public,0,60122,22879,4494
+218724,Coastal Carolina University,SC,Public,0,18223,14613,2775
+217907,Coker University,SC,Private not-for-profit,0,1121,1090,172
+217819,College of Charleston,SC,Public,0,26683,19212,2637
+139250,College of Coastal Georgia,GA,Public,0,2548,2510,714
+217934,Columbia College,SC,Private not-for-profit,0,2163,2072,204
+217925,Columbia International University,SC,Private not-for-profit,0,372,363,116
+139366,Columbus State University,GA,Public,0,3550,3523,1083
+237330,Concord University,WV,Public,0,2376,2130,443
+217961,Converse University,SC,Private not-for-profit,0,2628,1682,225
+139393,Covenant College,GA,Private not-for-profit,0,751,614,246
+219949,Cumberland University,TN,Private not-for-profit,0,2788,1868,673
+198385,Davidson College,NC,Private not-for-profit,0,7347,1064,519
+237358,Davis & Elkins College,WV,Private not-for-profit,0,929,541,237
+175616,Delta State University,MS,Public,0,1242,1238,218
+482459,DeVry University-Florida,FL,Private for-profit,0,1,1,1
+482468,DeVry University-Georgia,GA,Private for-profit,0,16,13,12
+482653,DeVry University-Virginia,VA,Private for-profit,0,1,1,1
+158802,Dillard University,LA,Private not-for-profit,1,8065,3267,248
+198419,Duke University,NC,Private not-for-profit,0,46365,3145,1742
+198464,East Carolina University,NC,Public,0,22289,20073,3941
+220075,East Tennessee State University,TN,Public,0,9903,8622,2141
+156620,Eastern Kentucky University,KY,Public,0,17082,13340,2782
+232043,Eastern Mennonite University,VA,Private not-for-profit,0,1179,1176,187
+446233,Ecclesia College,AR,Private not-for-profit,0,120,57,33
+133492,Eckerd College,FL,Private not-for-profit,0,4664,3670,537
+248934,ECPI University,VA,Private for-profit,0,4099,3398,1105
+133526,Edward Waters University,FL,Private not-for-profit,1,9805,8316,316
+198507,Elizabeth City State University,NC,Public,1,5360,3778,347
+198516,Elon University,NC,Private not-for-profit,0,18791,12649,1677
+133553,Embry-Riddle Aeronautical University-Daytona Beach,FL,Private not-for-profit,0,10286,6818,1931
+426314,Embry-Riddle Aeronautical University-Worldwide,FL,Private not-for-profit,0,2047,1264,678
+139630,Emmanuel University,GA,Private not-for-profit,0,461,246,204
+232025,Emory & Henry University,VA,Private not-for-profit,0,2349,2262,339
+139658,Emory University,GA,Private not-for-profit,0,31929,3543,1426
+217998,Erskine College,SC,Private not-for-profit,0,1037,628,295
+385619,Everglades University,FL,Private not-for-profit,0,804,695,388
+237367,Fairmont State University,WV,Public,0,1979,1964,673
+101189,Faulkner University,AL,Private not-for-profit,0,1786,1181,240
+198543,Fayetteville State University,NC,Public,1,5043,4029,807
+232089,Ferrum College,VA,Private not-for-profit,0,1483,1483,242
+220181,Fisk University,TN,Private not-for-profit,1,7982,4622,320
+133711,Flagler College,FL,Private not-for-profit,0,5509,4302,655
+496681,Florida Academy of Nursing,FL,Private for-profit,0,0,,
+133650,Florida Agricultural and Mechanical University,FL,Public,1,22713,4797,1391
+133669,Florida Atlantic University,FL,Public,0,27612,20279,4417
+133809,Florida College,FL,Private not-for-profit,0,307,204,196
+433660,Florida Gulf Coast University,FL,Public,0,16050,12318,2776
+133881,Florida Institute of Technology,FL,Private not-for-profit,0,15205,9507,882
+480569,Florida Institute of Technology-Online,FL,Private not-for-profit,0,189,84,32
+133951,Florida International University,FL,Public,0,25034,14729,5169
+133979,Florida Memorial University,FL,Private not-for-profit,1,12750,9475,459
+482936,Florida Polytechnic University,FL,Public,0,2600,1449,403
+134079,Florida Southern College,FL,Private not-for-profit,0,10874,6423,640
+134097,Florida State University,FL,Public,0,74038,18793,5890
+139719,Fort Valley State University,GA,Public,1,5080,3190,742
+218061,Francis Marion University,SC,Public,0,3489,2869,632
+160074,Franciscan Missionaries of Our Lady University,LA,Private not-for-profit,0,381,316,66
+220215,Freed-Hardeman University,TN,Private not-for-profit,0,1077,976,269
+218070,Furman University,SC,Private not-for-profit,0,8406,4419,620
+198561,Gardner-Webb University,NC,Private not-for-profit,0,4670,4064,411
+232186,George Mason University,VA,Public,0,22579,20057,4451
+156745,Georgetown College,KY,Private not-for-profit,0,1815,1341,307
+139861,Georgia College & State University,GA,Public,0,6214,5454,1816
+447689,Georgia Gwinnett College,GA,Public,0,6390,6107,2716
+139755,Georgia Institute of Technology-Main Campus,GA,Public,0,52377,8622,3763
+139931,Georgia Southern University,GA,Public,0,14410,12916,4753
+139764,Georgia Southwestern State University,GA,Public,0,2045,1578,533
+139940,Georgia State University,GA,Public,0,30230,18826,4542
+139968,Gordon State College,GA,Public,0,2126,1845,729
+159009,Grambling State University,LA,Public,1,24521,5806,916
+198598,Greensboro College,NC,Private not-for-profit,0,3143,2893,208
+198613,Guilford College,NC,Private not-for-profit,0,3775,3162,366
+232256,Hampden-Sydney College,VA,Private not-for-profit,0,2224,1115,240
+232265,Hampton University,VA,Private not-for-profit,1,12119,5850,1207
+107044,Harding University,AR,Private not-for-profit,0,2202,2202,864
+107071,Henderson State University,AR,Public,0,1814,1486,306
+107080,Hendrix College,AR,Private not-for-profit,0,2616,1386,275
+101453,Heritage Christian University,AL,Private not-for-profit,0,6,6,6
+140340,Herzing University-Atlanta,GA,Private not-for-profit,0,68,64,44
+101365,Herzing University-Birmingham,AL,Private not-for-profit,0,127,120,83
+499149,Herzing University-Nashville,TN,Private not-for-profit,0,34,31,21
+433536,Herzing University-New Orleans,LA,Private not-for-profit,0,46,41,27
+386472,Herzing University-Orlando,FL,Private not-for-profit,0,139,125,78
+496973,Herzing University-Tampa,FL,Private not-for-profit,0,46,40,27
+198695,High Point University,NC,Private not-for-profit,0,15625,12004,1468
+232308,Hollins University,VA,Private not-for-profit,0,2992,2120,192
+101435,Huntingdon College,AL,Private not-for-profit,0,2581,1828,309
+175856,Jackson State University,MS,Public,1,14141,12873,978
+101480,Jacksonville State University,AL,Public,0,12008,9152,1815
+134945,Jacksonville University,FL,Private not-for-profit,0,8879,5087,755
+232423,James Madison University,VA,Public,0,35750,27258,4922
+107141,John Brown University,AR,Private not-for-profit,0,1545,1045,384
+445708,Johnson & Wales University-Charlotte,NC,Private not-for-profit,0,4677,3521,432
+198756,Johnson C Smith University,NC,Private not-for-profit,1,4273,1832,283
+220473,Johnson University,TN,Private not-for-profit,0,610,328,181
+132879,Johnson University Florida,FL,Private not-for-profit,0,283,66,22
+135081,Keiser University-Ft Lauderdale,FL,Private not-for-profit,0,3375,3288,1958
+486840,Kennesaw State University,GA,Public,0,23138,16008,8234
+157100,Kentucky Christian University,KY,Private not-for-profit,0,747,466,166
+157030,Kentucky Mountain Bible College,KY,Private not-for-profit,0,42,15,12
+157058,Kentucky State University,KY,Public,1,2001,1852,345
+157076,Kentucky Wesleyan College,KY,Private not-for-profit,0,2009,1346,243
+220516,King University,TN,Private not-for-profit,0,1195,650,166
+140234,LaGrange College,GA,Private not-for-profit,0,1457,921,183
+218229,Lander University,SC,Public,0,5184,3521,846
+220604,Le Moyne-Owen College,TN,Private not-for-profit,1,212,206,159
+220613,Lee University,TN,Private not-for-profit,0,2150,1552,553
+198808,Lees-McRae College,NC,Private not-for-profit,0,1787,1443,199
+198835,Lenoir-Rhyne University,NC,Private not-for-profit,0,6299,5082,377
+232557,Liberty University,VA,Private not-for-profit,0,36921,36671,6419
+140252,Life University,GA,Private not-for-profit,0,404,379,205
+218238,Limestone University,SC,Private not-for-profit,0,3075,3022,321
+220631,Lincoln Memorial University,TN,Private not-for-profit,0,4007,2375,368
+219976,Lipscomb University,TN,Private not-for-profit,0,4244,2828,711
+198862,Livingstone College,NC,Private not-for-profit,1,4748,3518,269
+232566,Longwood University,VA,Public,0,6078,5154,793
+159568,Louisiana Christian University,LA,Private not-for-profit,0,549,460,220
+159391,Louisiana State University and Agricultural & Mechanical College,LA,Public,0,42558,31491,7521
+159382,Louisiana State University-Alexandria,LA,Public,0,706,654,482
+159416,Louisiana State University-Shreveport,LA,Public,0,949,785,285
+159647,Louisiana Tech University,LA,Public,0,9263,6722,2263
+159656,Loyola University New Orleans,LA,Private not-for-profit,0,6142,5388,695
+135364,Luther Rice College & Seminary,GA,Private not-for-profit,0,35,12,9
+132657,Lynn University,FL,Private not-for-profit,0,8333,6162,781
+106342,Lyon College,AR,Private not-for-profit,0,2522,1653,237
+461528,Manna University,NC,Private not-for-profit,0,20,20,18
+198899,Mars Hill University,NC,Private not-for-profit,0,1393,1085,318
+237525,Marshall University,WV,Public,0,6499,6269,1739
+487977,Martinsburg College,WV,Private for-profit,0,870,870,301
+232706,Marymount University,VA,Private not-for-profit,0,3598,2897,410
+220710,Maryville College,TN,Private not-for-profit,0,2809,1845,317
+159717,McNeese State University,LA,Public,0,3294,2225,1063
+140447,Mercer University,GA,Private not-for-profit,0,11058,7349,1015
+198950,Meredith College,NC,Private not-for-profit,0,1563,1167,325
+198969,Methodist University,NC,Private not-for-profit,0,2738,2059,344
+199458,Mid-Atlantic Christian University,NC,Private not-for-profit,0,290,221,46
+481225,Mid-South Christian College,TN,Private not-for-profit,0,8,8,6
+482158,Middle Georgia State University,GA,Public,0,3876,3867,1313
+220978,Middle Tennessee State University,TN,Public,0,14763,10039,3126
+157377,Midway University,KY,Private not-for-profit,0,1120,1066,265
+486901,Milligan University,TN,Private not-for-profit,0,1164,818,238
+175980,Millsaps College,MS,Private not-for-profit,0,2058,1009,153
+176053,Mississippi College,MS,Private not-for-profit,0,3315,1620,674
+176080,Mississippi State University,MS,Public,0,20877,15934,3751
+176035,Mississippi University for Women,MS,Public,0,553,553,159
+176044,Mississippi Valley State University,MS,Public,1,3411,1745,331
+199032,Montreat College,NC,Private not-for-profit,0,2154,1412,201
+157386,Morehead State University,KY,Public,0,8818,7241,1227
+140553,Morehouse College,GA,Private not-for-profit,1,5610,2883,682
+157401,Murray State University,KY,Public,0,11038,9511,1659
+262129,New College of Florida,FL,Public,0,2119,1568,221
+218414,Newberry College,SC,Private not-for-profit,0,4269,3193,470
+159966,Nicholls State University,LA,Public,0,3320,3188,1169
+232937,Norfolk State University,VA,Public,1,10211,8931,1503
+199102,North Carolina A & T State University,NC,Public,1,30717,14183,2755
+199157,North Carolina Central University,NC,Public,1,14192,12842,1465
+199193,North Carolina State University at Raleigh,NC,Public,0,40049,15958,5728
+199209,North Carolina Wesleyan University,NC,Private not-for-profit,0,2417,1884,250
+218441,North Greenville University,SC,Private not-for-profit,0,3243,2036,438
+157447,Northern Kentucky University,KY,Public,0,6417,6162,1295
+160038,Northwestern State University of Louisiana,LA,Public,0,3194,2994,1033
+368452,Nossi College of Art and Design,TN,Private for-profit,0,245,106,50
+136215,Nova Southeastern University,FL,Private not-for-profit,0,17621,12805,2029
+101912,Oakwood University,AL,Private not-for-profit,1,2370,1197,290
+140696,Oglethorpe University,GA,Private not-for-profit,0,2854,1714,391
+232982,Old Dominion University,VA,Public,0,15216,13773,2717
+107512,Ouachita Baptist University,AR,Private not-for-profit,0,2138,1465,469
+140720,Paine College,GA,Private not-for-profit,1,2253,1878,120
+136330,Palm Beach Atlantic University,FL,Private not-for-profit,0,7657,6763,680
+199306,Pfeiffer University,NC,Private not-for-profit,0,1637,1560,195
+140818,Piedmont University,GA,Private not-for-profit,0,2066,1918,286
+138868,Point University,GA,Private not-for-profit,0,3250,2194,1084
+218539,Presbyterian College,SC,Private not-for-profit,0,3359,2430,265
+199412,Queens University of Charlotte,NC,Private not-for-profit,0,4357,2949,399
+233277,Radford University,VA,Public,0,11072,10036,1103
+233301,Randolph College,VA,Private not-for-profit,0,1935,1837,200
+233295,Randolph-Macon College,VA,Private not-for-profit,0,2620,2185,431
+490230,Reformed University,GA,Private not-for-profit,0,79,58,46
+231651,Regent University,VA,Private not-for-profit,0,7261,2990,643
+140872,Reinhardt University,GA,Private not-for-profit,0,1755,968,319
+221351,Rhodes College,TN,Private not-for-profit,0,6025,2993,483
+136774,Ringling College of Art and Design,FL,Private not-for-profit,0,2685,1809,447
+233408,Riverside College of Health Careers,VA,Private not-for-profit,0,30,5,4
+233426,Roanoke College,VA,Private not-for-profit,0,6829,5468,531
+136950,Rollins College,FL,Private not-for-profit,0,9796,3973,639
+176318,Rust College,MS,Private not-for-profit,1,1715,595,103
+199582,Saint Augustine's University,NC,Private not-for-profit,1,3160,1856,162
+137032,Saint Leo University,FL,Private not-for-profit,0,7788,5615,632
+199607,Salem College,NC,Private not-for-profit,0,1951,1698,156
+102049,Samford University,AL,Private not-for-profit,0,4541,3734,1080
+140951,Savannah College of Art and Design,GA,Private not-for-profit,0,14931,12495,3651
+199643,Shaw University,NC,Private not-for-profit,1,10699,3261,186
+233541,Shenandoah University,VA,Private not-for-profit,0,3763,2929,485
+237792,Shepherd University,WV,Public,0,1793,1715,566
+140988,Shorter University,GA,Private not-for-profit,0,783,759,269
+461759,Simmons College of Kentucky,KY,Private not-for-profit,1,280,275,169
+218733,South Carolina State University,SC,Public,1,9830,8034,1079
+199759,Southeastern Baptist Theological Seminary,NC,Private not-for-profit,0,124,95,77
+428170,Southeastern College-West Palm Beach,FL,Private for-profit,0,227,183,114
+160612,Southeastern Louisiana University,LA,Public,0,5485,5171,2349
+137564,Southeastern University,FL,Private not-for-profit,0,2800,2080,1034
+221661,Southern Adventist University,TN,Private not-for-profit,0,2731,1819,758
+107983,Southern Arkansas University Main Campus,AR,Public,0,2936,1955,797
+160621,Southern University and A & M College,LA,Public,1,12221,6095,1711
+160630,Southern University at New Orleans,LA,Public,1,2920,1758,154
+233611,Southern Virginia University,VA,Private not-for-profit,0,1101,1097,295
+217776,Southern Wesleyan University,SC,Private not-for-profit,0,472,472,159
+157757,Spalding University,KY,Private not-for-profit,0,807,796,117
+218821,Spartanburg Methodist College,SC,Private not-for-profit,0,1946,1584,450
+141060,Spelman College,GA,Private not-for-profit,1,10610,3617,727
+102234,Spring Hill College,AL,Private not-for-profit,0,2279,1347,249
+137272,St. John Vianney College Seminary,FL,Private not-for-profit,0,10,10,10
+137476,St. Thomas University,FL,Private not-for-profit,0,4798,4769,564
+137546,Stetson University,FL,Private not-for-profit,0,7824,6762,638
+102270,Stillman College,AL,Private not-for-profit,1,2440,1811,200
+233718,Sweet Briar College,VA,Private not-for-profit,0,1136,815,138
+102298,Talladega College,AL,Private not-for-profit,1,8900,8833,204
+221838,Tennessee State University,TN,Public,1,12890,11940,1770
+221847,Tennessee Technological University,TN,Public,0,8772,7295,1988
+221731,Tennessee Wesleyan University,TN,Private not-for-profit,0,988,587,168
+100751,The University of Alabama,AL,Public,0,58418,44295,8279
+137847,The University of Tampa,FL,Private not-for-profit,0,35353,14469,2505
+220701,The University of Tennessee Southern,TN,Public,0,613,507,185
+221740,The University of Tennessee-Chattanooga,TN,Public,0,9096,7006,2381
+221759,The University of Tennessee-Knoxville,TN,Public,0,50488,23221,6694
+221768,The University of Tennessee-Martin,TN,Public,0,5199,4540,1118
+221519,The University of the South,TN,Private not-for-profit,0,5018,2554,449
+157809,Thomas More University,KY,Private not-for-profit,0,3030,2940,396
+141167,Thomas University,GA,Private not-for-profit,0,526,227,140
+141185,Toccoa Falls College,GA,Private not-for-profit,0,876,559,213
+176406,Tougaloo College,MS,Private not-for-profit,1,1976,1051,129
+157818,Transylvania University,KY,Private not-for-profit,0,1986,1688,281
+221892,Trevecca Nazarene University,TN,Private not-for-profit,0,1958,1371,375
+137953,Trinity Baptist College,FL,Private not-for-profit,0,192,120,98
+137962,Trinity College of Florida,FL,Private not-for-profit,0,81,78,32
+102368,Troy University,AL,Public,0,7947,7360,1717
+141237,Truett McConnell University,GA,Private not-for-profit,0,730,662,217
+160755,Tulane University of Louisiana,LA,Private not-for-profit,0,27936,4077,1867
+221953,Tusculum University,TN,Private not-for-profit,0,758,458,216
+102377,Tuskegee University,AL,Private not-for-profit,1,11742,3690,859
+157863,Union College,KY,Private not-for-profit,0,834,459,198
+221971,Union University,TN,Private not-for-profit,0,3012,1421,323
+102395,United States Sports Academy,AL,Private not-for-profit,0,119,42,29
+100663,University of Alabama at Birmingham,AL,Public,0,10919,9655,2095
+100706,University of Alabama in Huntsville,AL,Public,0,6074,4510,1176
+106397,University of Arkansas,AR,Public,0,28186,20202,6337
+106245,University of Arkansas at Little Rock,AR,Public,0,3661,2114,478
+106412,University of Arkansas at Pine Bluff,AR,Public,1,3792,2182,411
+108092,University of Arkansas-Fort Smith,AR,Public,0,2677,2181,886
+106704,University of Central Arkansas,AR,Public,0,6589,5961,1737
+132903,University of Central Florida,FL,Public,0,60627,23961,8196
+237312,University of Charleston,WV,Private not-for-profit,0,1635,1055,253
+134130,University of Florida,FL,Public,0,65375,15707,6762
+484473,University of Florida-Online,FL,Public,0,1440,927,826
+139959,University of Georgia,GA,Public,0,43419,16151,6146
+160065,University of Holy Cross,LA,Private not-for-profit,0,404,400,33
+157085,University of Kentucky,KY,Public,0,28233,26083,6437
+160658,University of Louisiana at Lafayette,LA,Public,0,10679,9486,3064
+159993,University of Louisiana at Monroe,LA,Public,0,4878,3637,1049
+157289,University of Louisville,KY,Public,0,14821,11937,3117
+232609,University of Lynchburg,VA,Private not-for-profit,0,4813,3956,478
+232681,University of Mary Washington,VA,Public,0,4606,3973,758
+220862,University of Memphis,TN,Public,0,15640,14605,2591
+135726,University of Miami,FL,Private not-for-profit,0,48286,8940,2328
+176017,University of Mississippi,MS,Public,0,27837,27218,5237
+101693,University of Mobile,AL,Private not-for-profit,0,1735,1258,288
+101709,University of Montevallo,AL,Public,0,6210,3347,501
+199069,University of Mount Olive,NC,Private not-for-profit,0,1748,1359,277
+159939,University of New Orleans,LA,Public,0,7253,4843,845
+101879,University of North Alabama,AL,Public,0,4398,4243,1106
+199111,University of North Carolina Asheville,NC,Public,0,5465,5131,630
+199120,University of North Carolina at Chapel Hill,NC,Public,0,57902,10850,4699
+199139,University of North Carolina at Charlotte,NC,Public,0,22699,18208,4501
+199148,University of North Carolina at Greensboro,NC,Public,0,12379,11120,2613
+199281,University of North Carolina at Pembroke,NC,Public,0,7635,7052,908
+199184,University of North Carolina School of the Arts,NC,Public,0,1423,471,221
+199218,University of North Carolina Wilmington,NC,Public,0,17370,12856,2701
+136172,University of North Florida,FL,Public,0,21568,13430,2816
+482680,University of North Georgia,GA,Public,0,11633,8394,3914
+233374,University of Richmond,VA,Private not-for-profit,0,15121,3525,833
+102094,University of South Alabama,AL,Public,0,12593,8247,1920
+218645,University of South Carolina Aiken,SC,Public,0,2905,2316,616
+218654,University of South Carolina Beaufort,SC,Public,0,2745,1899,503
+218663,University of South Carolina-Columbia,SC,Public,0,46682,28706,7319
+218742,University of South Carolina-Upstate,SC,Public,0,3557,2476,674
+137351,University of South Florida,FL,Public,0,65187,26699,5803
+176372,University of Southern Mississippi,MS,Public,0,8818,8763,1733
+156541,University of the Cumberlands,KY,Private not-for-profit,0,4281,3056,645
+107558,University of the Ozarks,AR,Private not-for-profit,0,1916,1114,188
+233897,University of Virginia's College at Wise,VA,Public,0,1414,1328,290
+234076,University of Virginia-Main Campus,VA,Public,0,56528,9533,3966
+101587,University of West Alabama,AL,Public,0,2041,1778,315
+138354,University of West Florida,FL,Public,0,9831,5591,1503
+141334,University of West Georgia,GA,Public,0,8399,4147,1361
+141264,Valdosta State University,GA,Public,0,4689,3915,1135
+221999,Vanderbilt University,TN,Private not-for-profit,0,45313,2844,1622
+449834,Virginia Beach Theological Seminary,VA,Private not-for-profit,0,0,,
+234030,Virginia Commonwealth University,VA,Public,0,19052,17729,4519
+234085,Virginia Military Institute,VA,Public,0,1171,957,469
+233921,Virginia Polytechnic Institute and State University,VA,Public,0,47208,26923,7196
+234155,Virginia State University,VA,Public,1,10577,9424,1448
+234164,Virginia Union University,VA,Private not-for-profit,1,2771,2708,415
+234173,Virginia Wesleyan University,VA,Private not-for-profit,0,2651,1890,373
+449764,Visible Music College,TN,Private not-for-profit,0,136,39,31
+199847,Wake Forest University,NC,Private not-for-profit,0,17479,3768,1385
+138275,Warner University,FL,Private not-for-profit,0,1628,778,255
+199865,Warren Wilson College,NC,Private not-for-profit,0,943,732,196
+234207,Washington and Lee University,VA,Private not-for-profit,0,6820,1184,502
+483780,Washington University of Science and Technology,VA,Private for-profit,0,174,20,20
+138293,Webber International University,FL,Private not-for-profit,0,1907,1479,259
+176451,Wesley Biblical Seminary,MS,Private not-for-profit,0,3,3,2
+141325,Wesleyan College,GA,Private not-for-profit,0,1384,859,100
+237932,West Liberty University,WV,Public,0,2077,1498,419
+237899,West Virginia State University,WV,Public,1,4465,4303,322
+238032,West Virginia University,WV,Public,0,19857,17129,4377
+237950,West Virginia University Institute of Technology,WV,Public,0,1005,613,308
+237969,West Virginia Wesleyan College,WV,Private not-for-profit,0,1413,1343,307
+200004,Western Carolina University,NC,Public,0,18183,15758,2103
+157951,Western Kentucky University,KY,Public,0,7720,7492,2822
+238078,Wheeling University,WV,Private not-for-profit,0,2103,1581,170
+231624,William & Mary,VA,Public,0,17548,5741,1619
+176479,William Carey University,MS,Private not-for-profit,0,571,331,204
+199272,William Peace University,NC,Private not-for-profit,0,1286,1252,159
+107877,Williams Baptist University,AR,Private not-for-profit,0,1014,597,128
+199962,Wingate University,NC,Private not-for-profit,0,21210,18027,708
+199999,Winston-Salem State University,NC,Public,1,9273,6357,883
+218964,Winthrop University,SC,Public,0,5858,4397,867
+218973,Wofford College,SC,Private not-for-profit,0,4183,2451,510
+160904,Xavier University of Louisiana,LA,Private not-for-profit,1,9608,7156,692
+141361,Young Harris College,GA,Private not-for-profit,0,1926,1233,242

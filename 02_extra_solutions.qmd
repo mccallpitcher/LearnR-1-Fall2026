@@ -1,0 +1,105 @@
+---
+title: "Learn R Part I - Extra Solutions"
+format: html
+editor: visual
+---
+
+#### 1. Load {tidyverse}
+
+Use the `library()` command (the package name does not need to be in quotes)
+
+```{r}
+library(tidyverse)
+```
+
+#### 2. Load colleges data using `read_csv()`
+
+The data set for these exercises includes admissions information for 4-year colleges in the U.S. southeast (<https://nces.ed.gov/ipeds/use-the-data>). The data file is called `admissions_data.csv` and is saved in the `data` subfolder. You can name your data frame object `se_colleges` .
+
+```{r}
+# load data
+se_colleges <- read_csv("data/admissions_data.csv")
+```
+
+#### 3. How many colleges are in the U.S. southeast?
+
+*Hint:* There is one college per row.
+
+*Note:* You can find this information in the `read_csv()` loading message, or the Environment pane.
+
+***There are 407 rows in the data frame, which means there are 407 4-year colleges in the U.S. southeast.***
+
+#### 4. What are the unique values of the `control` variable?
+
+```{r}
+# find unique values
+unique(se_colleges$control)
+```
+
+***Public, Private not-for-profit, and Private for-profit***
+
+#### 5. What are the minimum and maximum number of applicants in the data?
+
+```{r}
+# find the range
+summary(se_colleges$n_applied)
+```
+
+***The college with the lowest number of applicants had 0, and the college with the highest had 74,038.***
+
+#### 6. Subset rows
+
+Filter the rows to only include HBCUs (Historically Black Colleges and Universities) in the states of NC and VA that enrolled fewer than 500 students
+
+*Note:* `hbcu` is a binary variable (1 or 0), where 1 indicates a college is an HBCU.
+
+```{r}
+# limit to small HBCUs in NC and VA
+se_colleges |> 
+  filter(hbcu == 1, 
+         state %in% c("NC", "VA"),
+         n_enrolled < 500)
+```
+
+#### 7. Subset columns
+
+Subset the columns to only include `institution_name` and the three variables that start with "`n_`"
+
+```{r}
+# select some variables
+se_colleges |> 
+  select(institution_name, starts_with("n_"))
+```
+
+#### 8. Sort rows
+
+What are the top 3 colleges in the state of Alabama (AL) by number of applicants?
+
+```{r}
+# top colleges in Alabama
+se_colleges |> 
+  filter(state == "AL") |> 
+  arrange(-n_applied)
+```
+
+***University of Alabama, Auburn, and Alabama A & M***
+
+#### 9. Create new variables
+
+Add two new variables (you come up with their names):
+
+1.  Acceptance rate (`n_admitted` divided by `n_applied`)
+2.  Yield rate (`n_enrolled` divided by `n_admitted`)
+
+Then, add a pipe and filter only to colleges with an acceptance rate below .15 and a yield rate above .5. Which colleges meet these criteria?
+
+```{r}
+# create new variables and filter
+se_colleges |> 
+  mutate(accept_rate = n_admitted / n_applied,
+         yield_rate  = n_enrolled / n_admitted) |> 
+  filter(accept_rate < .15,
+         yield_rate  > .5)
+```
+
+***Duke, Vanderbilt, and Washington University of Science and Technology***

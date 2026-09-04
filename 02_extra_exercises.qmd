@@ -1,0 +1,78 @@
+---
+title: "Learn R Part I - Extended Exercises"
+format: html
+editor: visual
+---
+
+#### 1. Load {tidyverse}
+
+Use the `library()` command (the package name does not need to be in quotes)
+
+```{r}
+
+```
+
+#### 2. Load colleges data using `read_csv()`
+
+The data set for these exercises includes admissions information for 4-year colleges and universities in the U.S. southeast (<https://nces.ed.gov/ipeds/use-the-data>). The data file is called `admissions_data.csv` and is saved in the `data` subfolder. You can name your data frame object `se_colleges` .
+
+```{r}
+
+```
+
+#### 3. How many colleges are in the U.S. southeast?
+
+*Hint:* There is one college per row.
+
+*Note:* You can find this information in the `read_csv()` loading message, or the Environment pane.
+
+#### 4. What are the unique values of the `control` variable?
+
+```{r}
+
+```
+
+#### 5. What are the minimum and maximum number of applicants in the data?
+
+```{r}
+
+```
+
+#### 6. Subset rows
+
+Filter the rows to only include HBCUs (Historically Black Colleges and Universities) in the states of NC and VA that enrolled fewer than 500 students
+
+*Note:* `hbcu` is a binary variable (1 or 0), where 1 indicates a college is an HBCU.
+
+```{r}
+
+```
+
+#### 7. Subset columns
+
+Subset the columns to only include `institution_name` and the three variables that start with "`n_`"
+
+```{r}
+
+```
+
+#### 8. Sort rows
+
+What are the top 3 colleges in the state of Alabama (AL) by number of applicants?
+
+```{r}
+
+```
+
+#### 9. Create new variables
+
+Add two new variables (you come up with their names):
+
+1.  Acceptance rate (`n_admitted` divided by `n_applied`)
+2.  Yield rate (`n_enrolled` divided by `n_admitted`)
+
+Then, add a pipe and filter only to colleges with an acceptance rate below .15 and a yield rate above .5. Which colleges meet these criteria?
+
+```{r}
+
+```

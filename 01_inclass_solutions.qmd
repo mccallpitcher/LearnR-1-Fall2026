@@ -1,0 +1,105 @@
+---
+title: "Learn R Part I In-class Solutions"
+format: html
+editor: visual
+---
+
+Welcome to your first Quarto document! This is where you will try out all of the hands-on exercises in the workshop.
+
+```{r}
+# load packages
+library(tidyverse)
+```
+
+## 05. How do I write and run code in a coding notebook?
+
+Write and run code that finds the square root of 60
+
+Hint: the square root function in R is `sqrt()`
+
+```{r}
+# find sq root
+sqrt(60)
+```
+
+## 06. What is an object and how do I create one?
+
+Create an object called `my_age` that stores your age, then call the object so it prints to the Console.
+
+```{r}
+# store age
+my_age <- 32
+
+# call age
+my_age
+```
+
+## 08. How do I import data?
+
+Load the David Bowie data using `read_csv()`. You can name your data frame object `bowie`
+
+```{r}
+# import data
+bowie <- read_csv("data/david_bowie_spotify.csv")
+```
+
+## 09. How can I get to know my variables?
+
+Using `summary()`, determine whether the mean or median of `energy` is greater.
+
+```{r}
+# look at danceability
+summary(bowie$energy)
+```
+
+The median is larger than the mean (.71 vs. .66)
+
+## 10. What are some ways I can transform my data?
+
+### 10.1 Subset rows with `filter()`
+
+Filter `bowie` to only contain songs that are on the "Low" album
+
+```{r}
+# keep Low album only
+bowie |> 
+  filter(album == "Low")
+```
+
+### 10.2 Subset columns with `select()`
+
+Limit the columns in `bowie` to only include `track` and `speechiness`
+
+```{r}
+# limit columns
+bowie |> 
+  select(track, speechiness)
+```
+
+### 10.3 Sort rows with `arrange()`
+
+Find the 3 most popular David Bowie songs (according to Spotify)
+
+*Hint:* Browse the environment pane for the variable that measures this (it's at the bottom)
+
+```{r}
+# most popular songs
+bowie |> 
+  arrange(-popularity) |> 
+  select(track, popularity)
+```
+
+"Starman", "Heroes", and "Rebel Rebel"
+
+### 10.4 Create new variables with `mutate()`
+
+Create a new variable in `bowie` that multiplies `danceability` by 100 (you pick the name of the new variable), then limit your columns to `track`, `danceability`, and your new variable.
+
+Note: The symbol for multiplication in R is `*`
+
+```{r}
+# create new variable
+bowie |> 
+  mutate(dance100 = danceability * 100) |> 
+  select(track, danceability, dance100)
+```
